@@ -1,0 +1,12 @@
+[Default Applications]
+image/jpeg=swayimg.desktop
+image/png=swayimg.desktop
+application/pdf=org.gnome.Evince.desktop;qpdfview.desktop;
+application/x-ms-dos-executable;application/x-wine-extension-msp;application/x-msi;application/x-msdos-program;text/win-bat;=PortProton.desktop
+application/x-msdownload=ru.linux_gaming.PortProton.desktop;
+text/plain=org.gnome.gedit.desktop;
+
+[Added Associations]
+application/pdf=org.gnome.Evince.desktop;qpdfview.desktop;
+application/x-msdownload=ru.linux_gaming.PortProton.desktop;
+text/plain=org.gnome.gedit.desktop;
